@@ -1,6 +1,8 @@
 /* write your override styles here */
 
-#wall #tag-3 {
+#tag-3 {
+  display: none;}
+#tag-5 {
   display: none;
 
   <div id="wall">
